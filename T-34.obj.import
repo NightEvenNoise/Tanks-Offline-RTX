@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/T-34.obj-743807486ffb0a9a72585b473b4d6754.mesh"
+
+[deps]
+
+files=[ "res://.import/T-34.obj-743807486ffb0a9a72585b473b4d6754.mesh" ]
+
+source_file="res://T-34.obj"
+dest_files=[ "res://.import/T-34.obj-743807486ffb0a9a72585b473b4d6754.mesh", "res://.import/T-34.obj-743807486ffb0a9a72585b473b4d6754.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
